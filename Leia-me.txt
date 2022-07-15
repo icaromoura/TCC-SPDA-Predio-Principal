@@ -1,0 +1,28 @@
+Trabalho de Conclusão de Curso - Ícaro Moura do Altíssimo 
+Engenharia Elétrica - CEFET-MG/BH 
+2022/1
+
+
+******** Instruções para abrir o arquivo do Revit do projeto SPDA ************* 
+
+1) É necessário ter instalada a versão 2021 ou posterior do Revit, da Autodesk. 
+
+
+2) Abrir o arquivo "TCC Projeto SPDA.rvt" presente na pasta. 
+--> Ou abrir o Revit, depois na Aba "Arquivo", selecionar a opção "Abrir", depois "Projeto". Em seguida, selecionar o arquivo "TCC Projeto SPDA.rvt"
+
+
+3) Entrar com uma conta licenciada do CEFET-MG. 
+Até a data de criação deste arquivo (julho/2021) o CEFET conta licenças disponíveis do Revit. 
+A Autodesk também oferece licenças para estudante do Revit. 
+
+
+4) Inserir o vínculo do projeto arquitetônico. 
+
+Obs: O arquivo aberto até aqui conta com apenas o projeto SPDA. A metodologia BIM e o Revit foram desenvolvidos para que os projetos de uma edificação possam ser trabalhados individualmente e, posteriormente sejam visualizados em um arquivo só. Assim, os projetos complementares (SPDA, elétrico, estrutural, etc) podem ser desenvolvidos paralelamente após a conclusão do projeto arquitetônico. Assim, o projeto arquitetônico é um Vínculo a ser carregado no programa para realizar os demais projetos no mesmo. Ou seja, para visualizar o SPDA na arquitetura neste arquivo, é necessário carregar o arquivo arquitetônico como vínculo. 
+
+4.1) Clique na aba "Gerenciar" (entre as abas "Vista" e "Suplementos"), depois localize a subseção "Gerenciar projeto" e clique em "Gerenciar vínculos"; uma nova janela de vínculos será aberta. Nesta nova janela, clique na aba "IFC" (que é o tipo de arquivo do projeto arquitetônico do prédio em questão). O projeto já deve estar com o vínculo inserido, porém ao trocar de máquina ou de diretório, é necessário apontar o endereço do vínculo novamente. Assim, caso já esteja listado o vínculo, este deve ser apenas selecionado com o mouse e, em seguida, recarregado (opção "Recarregar de") do novo diretório; caso o vínculo não esteja listado, é necessário adicioná-lo (opção "Adicionar"). 
+O arquivo a ser recarregado ou adicionado neste tópico é o "Prédio Escolar.ifc". 
+Para finalizar e confirmar, clique em "Ok".
+
+5) O arquivo e projeto estão devidamente carregados e disponíveis para visualização e alteração. 
